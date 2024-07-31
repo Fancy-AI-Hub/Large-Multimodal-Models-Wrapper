@@ -1,0 +1,10 @@
+# folders
+.git
+.vscode
+__pycache__
+checkpoints
+model_registry
+tmp
+
+# files
+*.pyc

@@ -1,0 +1,16 @@
+# folders
+.vscode
+checkpoints
+cli
+docs
+model_registry
+opensources
+src
+storages
+tmp
+
+# files
+*.pyc
+*.log
+*.pth
+*.pt
